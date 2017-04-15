@@ -1,0 +1,3 @@
+Un thread de manejo de carros (Posicion actual, veloc actual ruta actual etc.)
+Un thread de rutas? (cantidad carros, ebentos azarosos en determinada ubicacion etc)
+Un thread de graficos

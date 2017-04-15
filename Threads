@@ -1,3 +1,4 @@
 Un thread de manejo de carros (Posicion actual, veloc actual ruta actual etc.)
 Un thread de rutas? (cantidad carros, ebentos azarosos en determinada ubicacion etc)
 Un thread de graficos
+Un thread demayor prioridad de control de commandos de pantalla. (stop/Go, agregar nuevos carros, nuevos eventos al sistema tipo un accidente, un semaforo)
